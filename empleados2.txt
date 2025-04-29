@@ -1,0 +1,20 @@
+=== Datos de Empleados ===
+==========================
+
+Empleado:
+---------
+Nombre: Juan Pérez
+Edad: 30 años
+Salario: $50000.00
+
+Empleado:
+---------
+Nombre: María López
+Edad: 25 años
+Salario: $55000.00
+
+Empleado:
+---------
+Nombre: Carlos García
+Edad: 35 años
+Salario: $60000.00
