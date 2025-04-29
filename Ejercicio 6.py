@@ -24,7 +24,7 @@ def leer_empleados(nombre_archivo):
         empleados.append(empleado)
     return empleados
 
-lista_empleados = leer_empleados("empleados.txt")
+lista_empleados = leer_empleados("empleados2.txt")
 
 if lista_empleados:
     total_salario = sum(empleado["salario"] for empleado in lista_empleados)
